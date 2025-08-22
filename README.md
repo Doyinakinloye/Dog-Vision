@@ -96,3 +96,4 @@ Akinloye 📍 Passionate about AI, Computer Vision, and building smart robot.
 🔗 
 LinkedIn Profile:  
 📧 doyinakinloye07@gmail.com
+Link to colab notebook: https://colab.research.google.com/drive/1cZJlyTw7fOT-Du78m7-ujp7gAnaAd6R3?usp=sharing
